@@ -7,7 +7,7 @@ Retro tarzda 2D uzay arcade oyunu.
 ### 🎮 Oyunu İndir ve Oyna
 Aşağıdaki linke tıklayarak oyunu bilgisayarınıza indirebilirsiniz:
 
-👉 **[PlanetFall_v1.0_Windows.rar İndir](https://github.com/deschamps11/PlanetFall/releases/latest/download/PlanetFall_Oyunu.rar)**
+👉 **[Oyunu İndir (Windows .RAR)](https://github.com/deschamps11/PlanetFall/releases/download/v1.0/planetfall.rar)**
 
 ---
 
